@@ -8,8 +8,8 @@
 <field name="product_tmpl_id" 
        string="Product Template"/>
                 </field>
-<field name="barcode" 
-       position="replace">
+
+<field name="barcode">
                 </field>
 
             
