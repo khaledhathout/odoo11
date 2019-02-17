@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<field name="attribute_line_ids" position="replace">
+                    <field name="attribute_value_ids" groups="product.group_product_variant"/>
+                    <field name="product_tmpl_id" string="Product Template"/>
+                </field>
+            
