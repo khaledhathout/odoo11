@@ -9,7 +9,7 @@
        string="Product Template"/>
                 </field>
 <field name="barcode" 
-       position="replace"/>
+       position="replace">
                 </field>
 
             
